@@ -6,7 +6,23 @@
 
 ###
 
-<p align="left">🌟 Graduando em Física e Técnico em Informática<br><br>Olá! Meu nome é Matheus Evaristo, graduando Física na UERJ e Técnico em Informática pelo SENAI. Minhas habilidades incluem linguagens como JavaScript, Python, Java, MySQL.<br><br>🚀 Aprimorando Conhecimentos em Front End<br><br>Fui aprovado no Santander Coders 2024, um processo seletivo com 81.000 candidatos e conquistei uma das 300 bolsas disponíveis. Agora, estou focado em aprimorar minhas habilidades em desenvolvimento Front End. Se você valoriza dedicação e flexibilidade, adoraria me conectar com você!<br><br>📚 Compartilhando Conhecimento e Experiência<br><br>Além dos estudos, sou professor particular de Matemática e Física. Acredito que ensinar é uma forma incrível de aprender e crescer. Também estou realizando um estágio na Samco Technology, onde aplico meus conhecimentos práticos.<br><br>🚗 Motorista de Uber nas Horas Vagas<br><br>Quando não estou estudando ou trabalhando, sou motorista de Uber. Adoro conhecer pessoas e explorar diferentes perspectivas.<br><br>💡 Objetivo: Soluções Inovadoras com Impacto<br><br>Meu objetivo é crescer no setor tecnológico e contribuir com soluções inovadoras que causem impacto positivo. Se você compartilha dessa visão, vamos nos conectar!</p>
+<p align="left">🌟 Formação e Habilidades
+Olá! Eu sou Matheus Evaristo, graduando em Física pela UERJ e Técnico em Informática pelo SENAI. Minhas habilidades incluem JavaScript, Python, Java, e MySQL.
+
+🚀 Desenvolvimento em Front-End
+Fui aprovado no Santander Coders 2024, um processo seletivo que contou com 81.000 candidatos, e conquistei uma das 300 bolsas disponíveis. Agora, estou focado em aprimorar minhas habilidades em desenvolvimento Front-End, estudando HTML, CSS, JavaScript, lógica de programação, TypeScript e Angular no curso da Ada, em parceria com o Santander. Se você valoriza dedicação e flexibilidade, adoraria me conectar com você!
+
+📚 Compartilhando Conhecimento e Experiência
+Professor Particular: Além dos estudos, sou professor particular de Matemática e Física, acreditando que ensinar é uma das melhores formas de aprender e crescer.
+
+Estágio na Samco Technology: Realizo estágio na Samco Technology como Técnico em Informática. Minhas responsabilidades incluem controle de estoque, montagem e controle de qualidade de produtos importados, gerenciamento de ordens de serviço, atendimento ao cliente via telefone, WhatsApp e e-mail, treinamento remoto do software hoteleiro e visitas técnicas aos clientes.
+
+Motorista de Uber nas Horas Vagas: Quando não estou estudando ou trabalhando, atuo como motorista de Uber. Aproveito essa oportunidade para conhecer ainda mais a minha cidade, o Rio de Janeiro.
+
+💡 Projetos Pessoais e Objetivo
+Projetos Pessoais: Recentemente, tenho me dedicado a projetos pessoais focados em HTML, CSS e JavaScript, aplicando e aprimorando meus conhecimentos nessas áreas.
+
+Objetivo: Meu objetivo é crescer no setor tecnológico e contribuir com soluções inovadoras que causem impacto positivo. Se você compartilha dessa visão, vamos nos conectar!</p>
 
 ###
 
