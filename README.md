@@ -27,7 +27,7 @@ Aqui estão alguns projetos em que trabalhei. Mais detalhes podem ser encontrado
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :--- |
 | **Sistema de Gestão de Cinema** | Sistema desenvolvido para gerenciar sessões, vendas e catálogo de um cinema. | Java, MySQL | [🔗Link Projeto](https:https://www.youtube.com/watch?v=tI21AylnU9o) |
-| **Intranet Bioxxi** | Nova intranet desenvolvida durante meu estágio para melhorar a comunicação interna. | HTML, CSS, JavaScript | [🔗 Link Projeto] (https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
+| **Intranet Bioxxi** | Nova intranet desenvolvida durante meu estágio para melhorar a comunicação interna. | HTML, CSS, JavaScript | [🔗 Link Projeto](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
 | **Landing Page Institucional** | Criação e estilização de uma landing page para uma empresa parceira. | HTML, CSS | [🔗 Deploy](https://projeto-landing-page-eta.vercel.app/) [🔗 Repositório](https://github.com/Matheusevaristo-coder/projeto-landing-page) |
 
 ## 🛠️ Habilidades e Tecnologias
