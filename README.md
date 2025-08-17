@@ -28,7 +28,7 @@ Aqui estão alguns projetos em que trabalhei. Mais detalhes podem ser encontrado
 | :--- | :--- | :--- | :--- |
 | **Sistema de Gestão de Cinema** | Sistema desenvolvido para gerenciar sessões, vendas e catálogo de um cinema. | Java, MySQL | [🔗Link Projeto](https:https://www.youtube.com/watch?v=tI21AylnU9o) |
 | **Intranet Bioxxi** | Nova intranet desenvolvida durante meu estágio para melhorar a comunicação interna. | HTML, CSS, JavaScript | [🔗 Link Projeto](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
-| **Landing Page Institucional** | Criação e estilização de uma landing page para uma empresa parceira. | HTML, CSS | [🔗 Deploy](https://portfolio-matheusevaristo.vercel.app/) |
+| **Landing Page Institucional** | Criação e estilização de uma landing page para uma estética automotiva. | HTML, CSS | [🔗 Site](https://estetica-automotiva-sidney-cruz.vercel.app/index.html) |
 
 ## 🛠️ Habilidades e Tecnologias
 
