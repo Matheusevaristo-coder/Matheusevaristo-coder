@@ -2,23 +2,23 @@
 
 ## 👋 Sobre Mim
 
-Olá! [cite_start]Sou um Desenvolvedor Júnior apaixonado por tecnologia e focado em criar soluções que otimizam processos e impactam positivamente a vida das pessoas[cite: 55].
+Olá! Sou um Desenvolvedor Júnior apaixonado por tecnologia e focado em criar soluções que otimizam processos e impactam positivamente a vida das pessoas.
 
-[cite_start]Minha jornada na tecnologia começou após uma transição estratégica da área de Física, uma decisão que me permitiu mergulhar de cabeça no desenvolvimento de software. [cite_start]Hoje, busco constantemente aprimorar minhas competências técnicas com o objetivo de me tornar um desenvolvedor Full Stack.
+Minha jornada na tecnologia começou após uma transição estratégica da área de Física, uma decisão que me permitiu mergulhar de cabeça no desenvolvimento de software. Hoje, busco constantemente aprimorar minhas competências técnicas com o objetivo de me tornar um desenvolvedor Full Stack.
 
-* [cite_start]🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNIAMÉRICA (2025-2027).
-* [cite_start]🛠️ Formação como **Técnico em Informática** pelo SENAI (2024-2025).
-* [cite_start]🏆 Aprovado no **Bootcamp Santander Coders 2024 - Front-End** (Ada Tech), selecionado entre mais de 81.000 candidatos[cite: 10].
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNIAMÉRICA (2025-2027).
+* 🛠️ Formação como **Técnico em Informática** pelo SENAI (2024-2025).
+* 🏆 Aprovado no **Bootcamp Santander Coders 2024 - Front-End** (Ada Tech), selecionado entre mais de 81.000 candidatos.
 
 ## 🚀 Experiência Profissional
 
-[cite_start]**Desenvolvedor Júnior @ Cmexx** (Jul/2025 - Atualmente) 
-* [cite_start]Atuo no desenvolvimento de automações para otimização de processos[cite: 12].
-* [cite_start]Colaboro na identificação e correção de bugs em sistemas existentes[cite: 12].
+**Desenvolvedor Júnior @ Cmexx** (Jul/2025 - Atualmente)
+* Atuo no desenvolvimento de automações para otimização de processos.
+* Colaboro na identificação e correção de bugs em sistemas existentes.
 
-[cite_start]**Estagiário de TI @ Bioxxi** (Fev/2025 - Jul/2025) [cite: 14]
-* [cite_start]Fui responsável pelo suporte técnico (helpdesk) e manutenção de equipamentos de TI[cite: 15, 16].
-* [cite_start]Desenvolvi a nova intranet da empresa, aplicando minhas habilidades em programação front-end.
+**Estagiário de TI @ Bioxxi** (Fev/2025 - Jul/2025)
+* Fui responsável pelo suporte técnico (helpdesk) e manutenção de equipamentos de TI.
+* Desenvolvi a nova intranet da empresa, aplicando minhas habilidades em programação front-end.
 
 ## 💻 Projetos em Destaque
 
@@ -26,17 +26,15 @@ Aqui estão alguns projetos em que trabalhei. Mais detalhes podem ser encontrado
 
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :--- |
-| **Sistema de Gestão de Cinema** | [cite_start]Sistema desenvolvido para gerenciar sessões, vendas e catálogo de um cinema.  | [cite_start]Java, MySQL  | `[🔗 Repositório]` |
-| **Intranet Bioxxi** | [cite_start]Nova intranet desenvolvida durante meu estágio para melhorar a comunicação interna.  | [cite_start]HTML, CSS, JavaScript  | `[🔗 Link]` (se aplicável) |
-| **Landing Page Institucional** | [cite_start]Criação e estilização de uma landing page para uma empresa parceira.  | [cite_start]HTML, CSS  | `[🔗 Deploy]` `[🔗 Repositório]` |
+| **Sistema de Gestão de Cinema** | Sistema desenvolvido para gerenciar sessões, vendas e catálogo de um cinema. | Java, MySQL | [🔗 Repositório](https://github.com/Matheusevaristo-coder/APICinema) |
+| **Intranet Bioxxi** | Nova intranet desenvolvida durante meu estágio para melhorar a comunicação interna. | HTML, CSS, JavaScript | `[🔗 Link]` (se aplicável) |
+| **Landing Page Institucional** | Criação e estilização de uma landing page para uma empresa parceira. | HTML, CSS | [🔗 Deploy](https://projeto-landing-page-eta.vercel.app/) [🔗 Repositório](https://github.com/Matheusevaristo-coder/projeto-landing-page) |
 
 ## 🛠️ Habilidades e Tecnologias
 
 | Front-End | Back-End | Banco de Dados | Ferramentas |
 | :---: | :---: | :---: | :---: |
-| ![HTML5](https://skillicons.dev/icons?i=html) | ![Java](https://skillicons.dev/icons?i=java) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![CSS3](https://skillicons.dev/icons?i=css) | | | ![GitHub](https://skillicons.dev/icons?i=github) |
-| ![JavaScript](https://skillicons.dev/icons?i=js) | | | ![Postman](https://skillicons.dev/icons?i=postman) |
+| ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) ![CodeIgniter](https://skillicons.dev/icons?i=codeigniter) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) |
 
 ## 📫 Conecte-se Comigo
 
@@ -48,6 +46,6 @@ Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusevaristo-coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusevaristo-coder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheusevaristo-coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusevaristo-coder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
