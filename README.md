@@ -1,51 +1,65 @@
-# Matheus Evaristo de Souza | Desenvolvedor Júnior
+# Matheus Evaristo de Souza | Desenvolvedor Full Stack
 
 ## 👋 Sobre Mim
 
-Olá! Sou um Desenvolvedor Júnior apaixonado por tecnologia e focado em criar soluções que otimizam processos e impactam positivamente a vida das pessoas.
+Sou um desenvolvedor focado em entregar soluções web que otimizam processos e geram resultado real para empresas. Minha jornada começou na **Física**, o que reforçou meu pensamento analítico e minha capacidade de resolver problemas de forma estruturada.
 
-Minha jornada na tecnologia começou após uma transição estratégica da área de Física, uma decisão que me permitiu mergulhar de cabeça no desenvolvimento de software. Hoje, busco constantemente aprimorar minhas competências técnicas com o objetivo de me tornar um desenvolvedor Full Stack.
+Hoje, atuo desenvolvendo produtos próprios na **Evaristo Solutions** e colaborando em projetos comerciais, utilizando **React**, **Java (Spring Boot)** e **PHP (Laravel)**.
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNIAMÉRICA (2025-2027).
-* 🛠️ Formação como **Técnico em Informática** pelo SENAI (2024-2025).
-* 🏆 Aprovado no **Bootcamp Santander Coders 2024 - Front-End** (Ada Tech), selecionado entre mais de 81.000 candidatos.
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – UNIAMÉRICA (2025–2027).
+* 🛠️ **Técnico em Informática** – SENAI (2024–2025).
+* 🏆 Aprovado no **Bootcamp Santander Coders 2024 – Front-End** (Ada Tech).
 
 ## 🚀 Experiência Profissional
 
-**Desenvolvedor Júnior @ Cmexx** (Jul/2025 - Atualmente)
-* Atuo no desenvolvimento de automações para otimização de processos.
-* Colaboro na identificação e correção de bugs em sistemas existentes.
+**Web Designer & E-commerce Manager @ Divertidos Baby** (Dez/2025 – Atualmente)
+* Gestão técnica e otimização da plataforma de e-commerce e design de interfaces.
 
-**Estagiário de TI @ Bioxxi** (Fev/2025 - Jul/2025)
-* Fui responsável pelo suporte técnico (helpdesk) e manutenção de equipamentos de TI.
-* Desenvolvi a nova intranet da empresa, aplicando minhas habilidades em programação front-end.
+**Desenvolvedor Júnior @ Cmexx** (Jul/2025 – Nov/2025)
+* Desenvolvimento de **automações** para otimizar processos internos e reduzir tarefas repetitivas.
+* Atuação na **modernização de sistemas legados** (Access para Web), garantindo estabilidade.
+* Suporte técnico e implementação de módulos de RH.
+
+**Estagiário de TI @ Bioxxi** (Fev/2025 – Jul/2025)
+* Desenvolvimento de uma **nova intranet** utilizando HTML, CSS e JavaScript.
+* Suporte técnico (helpdesk) e manutenção de infraestrutura de TI.
 
 ## 💻 Projetos em Destaque
 
-Aqui estão alguns projetos em que trabalhei. Mais detalhes podem ser encontrados no meu portfólio.
+Alguns projetos que representam bem meu momento atual. Outros podem ser vistos no meu portfólio.
 
-| Projeto | Descrição | Tecnologias | Links |
+| Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :--- |
-| **Sistema de Gestão de Cinema** | Sistema desenvolvido para gerenciar sessões, vendas e catálogo de um cinema. | HTML, CSS, Java, Javascript, Spring Boot, Postman, MySQL | [🔗Link Projeto](https:https://www.youtube.com/watch?v=tI21AylnU9o) |
-| **Intranet Bioxxi** | Nova intranet desenvolvida durante meu estágio para melhorar a comunicação interna. | HTML, CSS, JavaScript | [🔗 Link Projeto](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
-| **Landing Page Institucional** | Criação e estilização de uma landing page para uma estética automotiva. | HTML, CSS, Javascript | [🔗 Site](https://estetica-automotiva-sidney-cruz.vercel.app/index.html) |
+| **EvarPDV** | Sistema de Frente de Caixa (PDV) focado em agilidade e controle de vendas (SaaS). | React, Node.js | *Em Desenv.* |
+| **Sistema de Gestão de Cinema** | Gestão de sessões, vendas e catálogo com foco em fluxo de caixa. | Java, Spring Boot, MySQL | [🔗 Vídeo](https://www.youtube.com/watch?v=tI21AylnU9o) |
+| **Intranet Bioxxi** | Centralização de informações e comunicação interna corporativa. | HTML, CSS, JavaScript | [🔗 LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
+| **Landing Page Automotiva** | Página institucional focada em conversão e captação de leads. | HTML, CSS, JavaScript | [🔗 Site](https://estetica-automotiva-sidney-cruz.vercel.app/index.html) |
 
-## 🛠️ Habilidades e Tecnologias
+## 🛠️ Habilidades e Ferramentas
 
-| Front-End | Back-End | Banco de Dados | Ferramentas |
-| :---: | :---: | :---: | :---: |
-| ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![PHP](https://skillicons.dev/icons?i=php) ![Laravel](https://skillicons.dev/icons?i=laravel) ![CodeIgniter](https://skillicons.dev/icons?i=codeigniter) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) |
+### Visual (Icons)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" alt="Front-End" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,codeigniter" alt="Back-End" />
+  <img src="https://skillicons.dev/icons?i=mysql,azure,git,github,postman,linux" alt="Tools" />
+</div>
 
-## 📫 Conecte-se Comigo
+### Lista Técnica (Detalhada)
 
-Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais!
+* **Front-End:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Responsividade.
+* **Back-End:** Java (Spring Boot - APIs REST), PHP (Laravel e CodeIgniter), Lógica de Negócios.
+* **Banco de Dados:** MySQL, SQL Server (Azure), Modelagem de dados.
+* **Ferramentas:** Git/GitHub, Postman, Linux, Vercel, Docker.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-matheusevaristo.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-evaristo-169845226/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheusevaristo_TI@hotmail.com)
+## 📫 Onde Me Encontrar
+
+* 🌐 **Portfólio:** [portfolio-matheusevaristo.vercel.app](https://portfolio-matheusevaristo.vercel.app)
+* 🏢 **Evaristo Solutions:** [evaristo-solutions.vercel.app](https://evaristo-solutions.vercel.app)
+* 💼 **LinkedIn:** [linkedin.com/in/matheus-evaristo](https://www.linkedin.com/in/matheus-evaristo-169845226/)
+* ✉️ **E-mail:** matheusevaristo_TI@hotmail.com
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusevaristo-coder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusevaristo-coder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheusevaristo-coder&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusevaristo-coder&layout=compact&langs_count=5&theme=gotham&hide_border=false" height="150" alt="Top langs" />
 </div>
