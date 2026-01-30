@@ -1,62 +1,57 @@
-# Matheus Evaristo de Souza | Desenvolvedor Full Stack
+# Matheus Evaristo de Souza | Desenvolvedor Júnior
 
 ## 👋 Sobre Mim
 
-Sou um desenvolvedor focado em entregar soluções web que otimizam processos e geram resultado real para empresas. Minha jornada começou na **Física**, o que reforçou meu pensamento analítico e minha capacidade de resolver problemas de forma estruturada.
+Olá! Sou um **Desenvolvedor Júnior** apaixonado por tecnologia e focado em criar soluções web que otimizam processos e entregam resultado real.
 
-Hoje, atuo desenvolvendo produtos próprios na **Evaristo Solutions** e colaborando em projetos comerciais, utilizando **React**, **Java (Spring Boot)** e **PHP (Laravel)**.
+Minha jornada na tecnologia começou após uma transição estratégica da área de Física, o que reforçou meu pensamento analítico e minha capacidade de resolver problemas de forma estruturada. Hoje, busco constantemente aprimorar minhas competências técnicas para me tornar um desenvolvedor **Full Stack**.
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** – UNIAMÉRICA (2025–2027).
-* 🛠️ **Técnico em Informática** – SENAI (2024–2025).
-* 🏆 Aprovado no **Bootcamp Santander Coders 2024 – Front-End** (Ada Tech).
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNIAMÉRICA (2025-2027).
+* 🛠️ Formação como **Técnico em Informática** pelo SENAI (2024-2025).
+* 🏆 Aprovado no **Bootcamp Santander Coders 2024 - Front-End** (Ada Tech), selecionado entre mais de 81.000 candidatos.
 
 ## 🚀 Experiência Profissional
 
 **Web Designer & E-commerce Manager @ Divertidos Baby** (Dez/2025 – Atualmente)
-* Gestão técnica e otimização da plataforma de e-commerce e design de interfaces.
+* Gestão técnica e otimização de **plataforma de e-commerce** com foco em conversões.
+* Design de interfaces e integração com pagamentos/gateways.
 
 **Desenvolvedor Júnior @ Cmexx** (Jul/2025 – Nov/2025)
-* Desenvolvimento de **automações** para otimizar processos internos e reduzir tarefas repetitivas.
-* Atuação na **modernização de sistemas legados** (Access para Web), garantindo estabilidade.
-* Suporte técnico e implementação de módulos de RH.
+* Desenvolvimento de **automações** para otimizar processos internos.
+* Identificação e **correção de bugs** em sistemas existentes.
+* Colaboração com o time em análises técnicas e melhorias contínuas.
 
 **Estagiário de TI @ Bioxxi** (Fev/2025 – Jul/2025)
-* Desenvolvimento de uma **nova intranet** utilizando HTML, CSS e JavaScript.
-* Suporte técnico (helpdesk) e manutenção de infraestrutura de TI.
+* **Suporte técnico (helpdesk)** e manutenção de equipamentos de TI.
+* Desenvolvimento da **nova intranet** da empresa com HTML, CSS e JavaScript.
 
 ## 💻 Projetos em Destaque
 
-Alguns projetos que representam bem meu momento atual. Outros podem ser vistos no meu portfólio.
+Confira alguns projetos comerciais e pessoais que desenvolvi.
 
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :--- |
-| **EvarPDV** | Sistema de Frente de Caixa (PDV) focado em agilidade e controle de vendas (SaaS). | React, Node.js | *Em Desenv.* |
-| **Sistema de Gestão de Cinema** | Gestão de sessões, vendas e catálogo com foco em fluxo de caixa. | Java, Spring Boot, MySQL | [🔗 Vídeo](https://www.youtube.com/watch?v=tI21AylnU9o) |
-| **Intranet Bioxxi** | Centralização de informações e comunicação interna corporativa. | HTML, CSS, JavaScript | [🔗 LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
-| **Landing Page Automotiva** | Página institucional focada em conversão e captação de leads. | HTML, CSS, JavaScript | [🔗 Site](https://estetica-automotiva-sidney-cruz.vercel.app/index.html) |
+| **ChuvaAlertaRJ** | Sistema de alertas climáticos em tempo real para o RJ. | React, Python (FastAPI), MySQL | [🔗 Ver Post](https://www.linkedin.com/posts/matheus-evaristo-169845226_quem-mora-no-rio-de-janeiro-sabe-a-tens%C3%A3o-activity-7419036663819042816-aBXi/) |
+| **Divertidos Baby** | Otimização e gestão técnica de e-commerce infantil. | E-commerce Platform, UI/UX, Analytics | [🔗 Visitar Loja](https://divertidosbaby.com.br/) |
+| **Retro Barbearia** | Web App moderno para agendamentos e serviços. | HTML, CSS, JavaScript, Firebase | [🔗 Acessar App](https://retro-barbearia-web.web.app/) |
+| **Samco Technology** | Implantação e customização de e-commerce de tecnologia. | CMS, Front-end Customization | [🔗 Visitar Loja](https://www.samcotechnology.store/) |
+| **Sistema de Gestão de Cinema** | Gestão de sessões, vendas e catálogo de filmes. | Java, Spring Boot, MySQL | [🔗 Ver Projeto](https://www.youtube.com/watch?v=tI21AylnU9o) |
+| **Intranet Bioxxi** | Centralização de informações e comunicação interna. | HTML, CSS, JavaScript | [🔗 Ver Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
+| **Landing Page Automotiva** | Página institucional focada em conversão de leads. | HTML, CSS, JavaScript | [🔗 Acessar Site](https://estetica-automotiva-sidney-cruz.vercel.app/index.html) |
 
 ## 🛠️ Habilidades e Ferramentas
 
-### Visual (Icons)
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" alt="Front-End" />
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,codeigniter" alt="Back-End" />
-  <img src="https://skillicons.dev/icons?i=mysql,azure,git,github,postman,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,fastapi" alt="Back-End" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,git,github,linux,firebase" alt="Tools" />
 </div>
 
-### Lista Técnica (Detalhada)
+## 📫 Conecte-se Comigo
 
-* **Front-End:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Responsividade.
-* **Back-End:** Java (Spring Boot - APIs REST), PHP (Laravel e CodeIgniter), Lógica de Negócios.
-* **Banco de Dados:** MySQL, SQL Server (Azure), Modelagem de dados.
-* **Ferramentas:** Git/GitHub, Postman, Linux, Vercel, Docker.
-
-## 📫 Onde Me Encontrar
-
-* 🌐 **Portfólio:** [portfolio-matheusevaristo.vercel.app](https://portfolio-matheusevaristo.vercel.app)
-* 🏢 **Evaristo Solutions:** [evaristo-solutions.vercel.app](https://evaristo-solutions.vercel.app)
-* 💼 **LinkedIn:** [linkedin.com/in/matheus-evaristo](https://www.linkedin.com/in/matheus-evaristo-169845226/)
-* ✉️ **E-mail:** matheusevaristo_TI@hotmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-matheusevaristo.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-evaristo-169845226/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheusevaristo_TI@hotmail.com)
 
 ---
 <div align="center">
