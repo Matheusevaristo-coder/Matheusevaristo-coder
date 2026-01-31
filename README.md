@@ -36,6 +36,7 @@ Minha jornada na tecnologia começou após uma transição estratégica da área
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -45,6 +46,7 @@ Minha jornada na tecnologia começou após uma transição estratégica da área
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -52,8 +54,10 @@ Minha jornada na tecnologia começou após uma transição estratégica da área
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
@@ -82,7 +86,7 @@ Minha jornada na tecnologia começou após uma transição estratégica da área
 | **Divertidos Baby** | Gestão técnica e implementação de e-commerce infantil. | E-commerce, UX | [🔗 Loja](https://divertidosbaby.com.br/) |
 | **Retro Barbearia** | Web App para agendamentos. | JS, Firebase | [🔗 App](https://retro-barbearia-web.web.app/) |
 | **Samco Technology** | Aplicação de estilos e política de privacidade. | CMS, Front-end | [🔗 Loja](https://www.samcotechnology.store/) |
-| **Gestão de Cinema** | Gestão de sessões e vendas. | Java, Spring Boot | [🔗 Vídeo](https://www.youtube.com/watch?v=tI21AylnU9o) |
+| **Gestão de Cinema** | Gestão de sessões e vendas. | Java, Spring Boot, Azure | [🔗 Vídeo](https://www.youtube.com/watch?v=tI21AylnU9o) |
 | **Intranet Bioxxi** | Centralização de informações corporativas. | HTML, CSS, JS | [🔗 Ver Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
 | **Landing Page Auto** | Página institucional focada em conversão. | HTML, CSS, JS | [🔗 Site](https://estetica-automotiva-sidney-cruz.vercel.app/index.html) |
 
