@@ -77,9 +77,9 @@ Minha jornada na tecnologia começou após uma transição estratégica da área
 | Projeto | Descrição | Stack Principal | Link |
 | :--- | :--- | :--- | :--- |
 | **ChuvaAlertaRJ** | Sistema de alertas climáticos em tempo real. | React, Python, MySQL | [🔗 Ver Post](https://www.linkedin.com/posts/matheus-evaristo-169845226_quem-mora-no-rio-de-janeiro-sabe-a-tens%C3%A3o-activity-7419036663819042816-aBXi/) |
-| **Divertidos Baby** | Gestão técnica de e-commerce infantil. | E-commerce, UX | [🔗 Loja](https://divertidosbaby.com.br/) |
+| **Divertidos Baby** | Gestão técnica e Implementação de e-commerce infantil. | E-commerce, UX | [🔗 Loja](https://divertidosbaby.com.br/) |
 | **Retro Barbearia** | Web App para agendamentos. | JS, Firebase | [🔗 App](https://retro-barbearia-web.web.app/) |
-| **Samco Technology** | Implantação de e-commerce tech. | CMS, Front-end | [🔗 Loja](https://www.samcotechnology.store/) |
+| **Samco Technology** | Aplicação de estilos, politica de privacidade de e-commerce tech. | CMS, Front-end | [🔗 Loja](https://www.samcotechnology.store/) |
 | **Gestão de Cinema** | Gestão de sessões e vendas. | Java, Spring Boot | [🔗 Vídeo](https://www.youtube.com/watch?v=tI21AylnU9o) |
 
 <div align="center">
