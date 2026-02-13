@@ -1,32 +1,48 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHqrlyLx8jbuA/profile-displaybackgroundimage-shrink_350_1400/B4EZfP5z5jHwAY-/0/1751539730005?e=1771459200&v=beta&t=9kJDibJ57eK6U4Vi-YFBLy2tAUcBJqXZIeX6Vf946tQ" width="100%" style="border-radius: 8px" alt="Cover" />
-  
-  <br />
-  
-  # Matheus Evaristo de Souza | Desenvolvedor Júnior
-  
-  <p>
-    <a href="https://portfolio-matheusevaristo.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/matheus-evaristo-169845226/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:matheusevaristo_TI@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
-    </a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0099ff&height=180&section=header&text=Matheus%20Evaristo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Júnior%20%7C%20Full%20Stack%20em%20construção&descSize=16&descAlignY=58&descColor=a0c4ff&animation=fadeIn" width="100%" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1520?style=for-the-badge&logoColor=white)](https://portfolio-matheusevaristo.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-evaristo-169845226/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheusevaristo_TI@hotmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Matheusevaristo-coder&label=Visitas+ao+perfil&color=00d4aa&style=flat-square" alt="Profile views" />
+
 </div>
 
-## 👋 Sobre Mim
+---
 
-Olá! Sou um **Desenvolvedor Júnior** apaixonado por tecnologia e focado em criar soluções web que otimizam processos e entregam resultado real.
+## 👋 Olá, mundo!
 
-Minha jornada na tecnologia começou após uma transição estratégica da área de Física, o que reforçou meu pensamento analítico e minha capacidade de resolver problemas de forma estruturada. Hoje, busco constantemente aprimorar minhas competências técnicas para me tornar um desenvolvedor **Full Stack**.
+Sou um **Desenvolvedor Júnior** apaixonado por tecnologia e focado em criar soluções web que otimizam processos e entregam resultado real.
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNIAMÉRICA (2025-2027).
-* 🛠️ Formação como **Técnico em Informática** pelo SENAI (2024-2025).
-* 🏆 Aprovado no **Bootcamp Santander Coders 2024 - Front-End** (Ada Tech), selecionado entre mais de **81.000 candidatos**.
+Minha jornada na tecnologia começou após uma transição estratégica da área de **Física**, o que reforçou meu pensamento analítico e minha capacidade de resolver problemas de forma estruturada. Hoje, busco constantemente aprimorar minhas competências técnicas para me tornar um desenvolvedor **Full Stack**.
+
+```js
+const matheus = {
+  localização:  "Rio de Janeiro, Brasil 🇧🇷",
+  foco:         "Full Stack Development",
+  aprendendo:   ["Spring Boot", "FastAPI", "Cloud (Azure)"],
+  hobbies:      ["resolver problemas", "café ☕", "física teórica"],
+  contato:      "matheusevaristo_TI@hotmail.com",
+};
+```
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+| 🥇 Santander Coders 2024 | 🎓 ADS em andamento | 🛠️ Técnico em Informática |
+|:---:|:---:|:---:|
+| Aprovado entre **+81.000** candidatos no Bootcamp Front-End (Ada Tech) | Análise e Desenvolvimento de Sistemas — **UNIAMÉRICA** (2025–2027) | Formação técnica completa pelo **SENAI** (2024–2025) |
+
+</div>
 
 ---
 
@@ -50,48 +66,74 @@ Minha jornada na tecnologia começou após uma transição estratégica da área
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🗄️ Banco de Dados & Tools
+### 🗄️ Banco de Dados & Cloud
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Experiência Profissional
+## 💼 Experiência Profissional
 
-**Web Designer & E-commerce Manager @ Divertidos Baby** (Dez/2025 – Atualmente)
-* Gestão técnica e otimização de **plataforma de e-commerce** com foco em conversões.
-* Design de interfaces e integração com pagamentos/gateways.
+**🟢 Web Designer & E-commerce Manager · Divertidos Baby** *(Dez/2025 – Atualmente)*
+- Gestão técnica e otimização de **plataforma de e-commerce** com foco em conversões
+- Design de interfaces e integração com pagamentos/gateways
 
-**Desenvolvedor Júnior @ Cmexx** (Jul/2025 – Nov/2025)
-* Desenvolvimento de **automações** para otimizar processos internos.
-* Identificação e **correção de bugs** em sistemas existentes.
+**🔵 Desenvolvedor Júnior · Cmexx** *(Jul/2025 – Nov/2025)*
+- Desenvolvimento de **automações** para otimizar processos internos
+- Identificação e **correção de bugs** em sistemas existentes
 
-**Estagiário de TI @ Bioxxi** (Fev/2025 – Jul/2025)
-* **Suporte técnico** e desenvolvimento da **nova intranet** da empresa.
+**⚪ Estagiário de TI · Bioxxi** *(Fev/2025 – Jul/2025)*
+- **Suporte técnico** e desenvolvimento da **nova intranet** da empresa
 
 ---
 
-## 💻 Projetos em Destaque
-
-| Projeto | Descrição | Stack Principal | Link |
-| :--- | :--- | :--- | :--- |
-
-| **Sistema PDV** | Frente de caixa desktop para varejo (Local). | React, Electron, SQLite | [Acessar](https://evarpdv.vercel.app/) |
-| **ChuvaAlertaRJ** | Sistema de alertas climáticos em tempo real. | React, Python, MySQL | [🔗 Ver Post](https://www.linkedin.com/posts/matheus-evaristo-169845226_quem-mora-no-rio-de-janeiro-sabe-a-tens%C3%A3o-activity-7419036663819042816-aBXi/) |
-| **Divertidos Baby** | Gestão técnica e implementação de e-commerce infantil. | E-commerce, UX | [🔗 Loja](https://divertidosbaby.com.br/) |
-| **Retro Barbearia** | Web App para agendamentos. | JS, Firebase | [🔗 App](https://retro-barbearia-web.web.app/) |
-| **Samco Technology** | Aplicação de estilos e política de privacidade. | CMS, Front-end | [🔗 Loja](https://www.samcotechnology.store/) |
-| **Gestão de Cinema** | Gestão de sessões e vendas. | Java, Spring Boot, Azure | [🔗 Vídeo](https://www.youtube.com/watch?v=tI21AylnU9o) |
-| **Intranet Bioxxi** | Centralização de informações corporativas. | HTML, CSS, JS | [🔗 Ver Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
-| **Landing Page Auto** | Página institucional focada em conversão. | HTML, CSS, JS | [🔗 Site](https://estetica-automotiva-sidney-cruz.vercel.app/index.html) |
+## 🚀 Projetos em Destaque
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheusevaristo-coder&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusevaristo-coder&layout=compact&langs_count=5&theme=gotham&hide_border=false" height="150" alt="Top langs" />
+
+| Projeto | Descrição | Stack | Link |
+|:---|:---|:---|:---:|
+| 🖥️ **Sistema PDV** | Frente de caixa desktop para varejo (local) | React · Electron · SQLite | [▶ Ver](https://evarpdv.vercel.app/) |
+| 🌧️ **ChuvaAlertaRJ** | Sistema de alertas climáticos em tempo real | React · Python · MySQL | [▶ Post](https://www.linkedin.com/posts/matheus-evaristo-169845226_quem-mora-no-rio-de-janeiro-sabe-a-tens%C3%A3o-activity-7419036663819042816-aBXi/) |
+| 🧸 **Divertidos Baby** | E-commerce infantil — gestão técnica completa | E-commerce · UX | [▶ Loja](https://divertidosbaby.com.br/) |
+| ✂️ **Retro Barbearia** | Web App para agendamentos | JS · Firebase | [▶ App](https://retro-barbearia-web.web.app/) |
+| 🏪 **Samco Technology** | Estilos e política de privacidade para loja | CMS · Front-end | [▶ Loja](https://www.samcotechnology.store/) |
+| 🎬 **Gestão de Cinema** | Gestão de sessões e vendas | Java · Spring Boot · Azure | [▶ Vídeo](https://www.youtube.com/watch?v=tI21AylnU9o) |
+| 🏢 **Intranet Bioxxi** | Centralização de informações corporativas | HTML · CSS · JS | [▶ Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7304144259840987137/) |
+| 🚗 **Landing Page Auto** | Página institucional focada em conversão | HTML · CSS · JS | [▶ Site](https://estetica-automotiva-sidney-cruz.vercel.app/index.html) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Matheusevaristo-coder&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true&bg_color=0d1520&title_color=00d4aa&icon_color=0099ff&text_color=a0c4ff" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheusevaristo-coder&layout=compact&langs_count=6&theme=gotham&hide_border=true&bg_color=0d1520&title_color=00d4aa&text_color=a0c4ff" height="160" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Matheusevaristo-coder&theme=dark&hide_border=true&background=0d1520&ring=00d4aa&fire=0099ff&currStreakLabel=00d4aa&sideLabels=a0c4ff&dates=6b7f96" height="150" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,100:00d4aa&height=100&section=footer&reversal=true" width="100%" />
+
+*"A melhor forma de aprender é construindo."*
+
 </div>
