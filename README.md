@@ -81,10 +81,8 @@ Minha jornada na tecnologia começou após uma transição estratégica da área
 
 | Projeto | Descrição | Stack Principal | Link |
 | :--- | :--- | :--- | :--- |
-| Projeto       | Descrição                                   | Tecnologias              | Link |
-|---------------|---------------------------------------------|--------------------------|------|
-| **Sistema PDV** | Frente de caixa desktop para varejo (Local). | React, Electron, SQLite | [Acessar](https://evarpdv.vercel.app/) |
 
+| **Sistema PDV** | Frente de caixa desktop para varejo (Local). | React, Electron, SQLite | [Acessar](https://evarpdv.vercel.app/) |
 | **ChuvaAlertaRJ** | Sistema de alertas climáticos em tempo real. | React, Python, MySQL | [🔗 Ver Post](https://www.linkedin.com/posts/matheus-evaristo-169845226_quem-mora-no-rio-de-janeiro-sabe-a-tens%C3%A3o-activity-7419036663819042816-aBXi/) |
 | **Divertidos Baby** | Gestão técnica e implementação de e-commerce infantil. | E-commerce, UX | [🔗 Loja](https://divertidosbaby.com.br/) |
 | **Retro Barbearia** | Web App para agendamentos. | JS, Firebase | [🔗 App](https://retro-barbearia-web.web.app/) |
