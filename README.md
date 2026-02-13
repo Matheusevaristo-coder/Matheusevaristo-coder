@@ -102,7 +102,7 @@ const matheus = {
 
 | Projeto | Descrição | Stack | Link |
 |:---|:---|:---|:---:|
-| 🖥️ **Sistema PDV** | Frente de caixa desktop para varejo (local) | [▶ Ver](https://evarpdv.vercel.app/) |
+| 🖥️ **Sistema PDV** | Frente de caixa desktop para varejo (local) | React · Node |[▶ Ver](https://evarpdv.vercel.app/) |
 | 🌧️ **ChuvaAlertaRJ** | Sistema de alertas climáticos em tempo real | React · Python · MySQL | [▶ Post](https://www.linkedin.com/posts/matheus-evaristo-169845226_quem-mora-no-rio-de-janeiro-sabe-a-tens%C3%A3o-activity-7419036663819042816-aBXi/) |
 | 🧸 **Divertidos Baby** | E-commerce infantil — gestão técnica completa | E-commerce · UX | [▶ Loja](https://divertidosbaby.com.br/) |
 | ✂️ **Retro Barbearia** | Web App para agendamentos | JS · Firebase | [▶ App](https://retro-barbearia-web.web.app/) |
